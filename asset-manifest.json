@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/yyoungg0318/dreamfisher.git/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/yyoungg0318/dreamfisher.git/static/js/main.603199a0.chunk.js",
-    "main.js.map": "/yyoungg0318/dreamfisher.git/static/js/main.603199a0.chunk.js.map",
-    "runtime-main.js": "/yyoungg0318/dreamfisher.git/static/js/runtime-main.b43c6510.js",
-    "runtime-main.js.map": "/yyoungg0318/dreamfisher.git/static/js/runtime-main.b43c6510.js.map",
-    "static/js/2.b1f58e51.chunk.js": "/yyoungg0318/dreamfisher.git/static/js/2.b1f58e51.chunk.js",
-    "static/js/2.b1f58e51.chunk.js.map": "/yyoungg0318/dreamfisher.git/static/js/2.b1f58e51.chunk.js.map",
-    "static/js/3.241c7754.chunk.js": "/yyoungg0318/dreamfisher.git/static/js/3.241c7754.chunk.js",
-    "static/js/3.241c7754.chunk.js.map": "/yyoungg0318/dreamfisher.git/static/js/3.241c7754.chunk.js.map",
-    "index.html": "/yyoungg0318/dreamfisher.git/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/yyoungg0318/dreamfisher.git/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.b1f58e51.chunk.js.LICENSE.txt": "/yyoungg0318/dreamfisher.git/static/js/2.b1f58e51.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/yyoungg0318/dreamfisher.git/static/media/logo.6ce24c58.svg"
+    "main.css": "/dreamfisher/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/dreamfisher/static/js/main.603199a0.chunk.js",
+    "main.js.map": "/dreamfisher/static/js/main.603199a0.chunk.js.map",
+    "runtime-main.js": "/dreamfisher/static/js/runtime-main.f3d0a901.js",
+    "runtime-main.js.map": "/dreamfisher/static/js/runtime-main.f3d0a901.js.map",
+    "static/js/2.b1f58e51.chunk.js": "/dreamfisher/static/js/2.b1f58e51.chunk.js",
+    "static/js/2.b1f58e51.chunk.js.map": "/dreamfisher/static/js/2.b1f58e51.chunk.js.map",
+    "static/js/3.241c7754.chunk.js": "/dreamfisher/static/js/3.241c7754.chunk.js",
+    "static/js/3.241c7754.chunk.js.map": "/dreamfisher/static/js/3.241c7754.chunk.js.map",
+    "index.html": "/dreamfisher/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/dreamfisher/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b1f58e51.chunk.js.LICENSE.txt": "/dreamfisher/static/js/2.b1f58e51.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dreamfisher/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b43c6510.js",
+    "static/js/runtime-main.f3d0a901.js",
     "static/js/2.b1f58e51.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.603199a0.chunk.js"
